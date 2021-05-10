@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Zuri ViewGroups Task</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="shr_button_next">Next</string>
+    <string name="shr_button_cancel">Cancel</string>
+    <string name="hint_email">Email</string>
+
+    <string-array name="Programming_languages">
+        <item>php</item>
+        <item>Python</item>
+        <item>Kotlin</item>
+        <item>java</item>
+        <item>swift</item>
+    </string-array>
+</resources>
